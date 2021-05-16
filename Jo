@@ -44,7 +44,23 @@ c2 = "\033[0;97m""\033[1;32m""\033[0;97m"
 c3 = "\033[1;31m""\033[0;97m""\033[1;31m"
 os.system('git pull')
 os.system('clear')
-logo = ('echo -e "\n\n       ITZ XTYLISH PATHANI   \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n  ITZ XTYLISH PATHANI   \n  ITZ XTYLISH PATHANI    \n  ITZ XTYLISH PATHANI  \n   ITZ XTYLISH PATHANI  \n               XTYLISH PATHANI   \n         AK BRAND HERE          \n-----------------------------------------------\n➣ Author :  XTYLISH PATHANI\n➣ Github : https://github.com/pathani404\n➣ Facebook : https://m.facebook.com/pathani404\n➣ QUEEN OF FACEBOOK PATHANI HERE \n-----------------------------------------------" ')  
+logo = """
+\033[1;97m*************************************************
+\033[1;96m██████╗░░█████╗░████████╗██╗░░██╗░█████╗░███╗░░██╗
+\033[1;91m██╔══██╗██╔══██╗╚══██╔══╝██║░░██║██╔══██╗████╗░██║
+\033[1;92m██████╔╝███████║░░░██║░░░███████║███████║██╔██╗██║
+\033[1;92m██╔═══╝░██╔══██║░░░██║░░░██╔══██║██╔══██║██║╚████║
+\033[1;93m██║░░░░░██║░░██║░░░██║░░░██║░░██║██║░░██║██║░╚███║
+\033[1;94m╚═╝░░░░░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+\033[1;97m*************************************************
+\033[1;93m      AUTHER    :     XTYLISH PATHANI
+\033[1;96m      GITHUB    :     /pathani404
+\033[1;95m          WP    :     +1541×××××××
+\033[1;94m           FB    :     /xtylish.pathani.404
+\033[1;97m ************************************************
+\033[1;98m          Send id in messenger for approval
+\033[1;97m ************************************************
+"""
 def reg():
     os.system('clear')
     print logo
